@@ -1,0 +1,171 @@
+body {
+	background-image: url("http://www.newschoolfreepress.com/wp-content/uploads/2016/03/arch.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-attachment: fixed;
+}
+
+#education {
+	background-image: url("https://timbob101.files.wordpress.com/2013/10/stern.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-attachment: fixed;
+}
+
+.topnav {
+	overflow: hidden;
+}
+
+.topnav a {
+	font-family: 'Titillium Web', sans-serif;
+	float: right;
+	display: block;
+	color: #f2f2f2;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 17px;
+	letter-spacing: .5px;
+}
+
+.topnav a.logo {
+	float: left;
+	padding: 2px 40px;
+	font-size: 33px;
+}
+
+.topnav a:hover {
+	text-decoration: underline;
+}
+
+.topnav a.logo:hover {
+	text-decoration: none;
+}
+
+.topnav a.active {
+	color: white;
+	text-decoration: none;
+}
+
+.blankspace {
+	height: 42vw;
+	width: 100%;
+	text-align: center;
+	color: white;
+}
+
+#blankspace {
+	font-family: 'Titillium Web', sans-serif;
+	font-size: 50px;
+	position: relative;
+	top: 70%;
+	transform: translateY(-50%);
+	-webkit-transform: translateY(-50%);
+}
+
+.learnMore {
+	height: 13vw;
+	width: 100%;
+	background: white;
+	text-align: center;
+}
+
+#learnMore {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 22px;
+	position: relative;
+	top: 50%;
+	transform: translateY(-50%);
+	-webkit-transform: translateY(-50%);
+}
+
+.aboutMe {
+	height: 60vw;
+	width: 100%;
+	background: #d3d3d3;
+	text-align: center;
+}
+
+#aboutMe {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 15px;
+	position: relative;
+	top: 50%;
+	transform: translateY(-50%);
+	-webkit-transform: translateY(-50%);
+	-webkit-column-count: 2;
+    -moz-column-count: 2;
+    column-count: 2;
+}
+
+.contactForm {
+	height: 390px;
+	width: 100%;
+	background: #d3d3d3;
+	text-align: center;
+}
+
+.resume {
+	height: 13vw;
+	width: 100%;
+	background: white;
+	text-align: center;
+}
+
+#resume {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 22px;
+	position: relative;
+	top: 50%;
+	transform: translateY(-50%);
+	-webkit-transform: translateY(-50%);
+}
+
+#resume a{
+	color: black;
+}
+
+.footer {
+	height: 5vw;
+	width: 100%;
+	background: #333333;
+}
+
+#copyright {
+	float: left;
+	font-size: 10px;
+	font-family: 'Open Sans', sans-serif;
+	color: #d3d3d3;
+	position: relative;
+	top: 50%;
+	transform: translateY(-50%);
+	-webkit-transform: translateY(-50%);
+}
+
+#followMe {
+	float: right;
+	position: relative;
+	top: 50%;
+	transform: translateY(-50%);
+	-webkit-transform: translateY(-50%);
+	font-size: 16px;
+	font-family: 'Open Sans', sans-serif;
+	color: #d3d3d3;
+}
+
+#followMe a {
+	font-size: 18px;
+	text-decoration: none;
+	color: #d3d3d3;
+}
+
+
+
+
+
+
+
+
+
+
+
